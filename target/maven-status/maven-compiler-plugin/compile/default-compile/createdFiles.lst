@@ -1,0 +1,15 @@
+eu\fr\indyli\formation\tdd\junit\dbunit\service\impl\AdherentServiceImpl.class
+eu\fr\indyli\formation\tdd\junit\dbunit\service\exception\BookException.class
+eu\fr\indyli\formation\tdd\junit\dbunit\service\IBookService.class
+eu\fr\indyli\formation\tdd\junit\dbunit\utils\DateUtils.class
+eu\fr\indyli\formation\tdd\junit\dbunit\entity\RequestAdherent.class
+eu\fr\indyli\formation\tdd\junit\dbunit\entity\Book.class
+eu\fr\indyli\formation\tdd\junit\dbunit\app\Application.class
+eu\fr\indyli\formation\tdd\junit\dbunit\entity\Adherent.class
+eu\fr\indyli\formation\tdd\junit\dbunit\service\impl\MathsServiceImpl.class
+eu\fr\indyli\formation\tdd\junit\dbunit\service\IAdherentService.class
+eu\fr\indyli\formation\tdd\junit\dbunit\service\IMathsService.class
+eu\fr\indyli\formation\tdd\junit\dbunit\dao\IBookRepository.class
+eu\fr\indyli\formation\tdd\junit\dbunit\dao\IAdherentRepository.class
+eu\fr\indyli\formation\tdd\junit\dbunit\service\exception\MathException.class
+eu\fr\indyli\formation\tdd\junit\dbunit\service\impl\BookServiceImpl.class

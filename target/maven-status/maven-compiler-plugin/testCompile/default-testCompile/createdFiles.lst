@@ -1,0 +1,5 @@
+eu\fr\indyli\formation\tdd\junit\service\test\MockBookServiceTest.class
+eu\fr\indyli\formation\tdd\junit\dao\test\AdherentRepositoryTest.class
+eu\fr\indyli\formation\tdd\junit\service\test\AdherentXmlServiceTest.class
+eu\fr\indyli\formation\tdd\junit\service\test\BookXmlServiceTest.class
+eu\fr\indyli\formation\tdd\junit\service\test\MathsServiceTest.class
